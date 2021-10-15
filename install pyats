@@ -1,0 +1,4 @@
+pip install "pyats[full]"
+pyats version check
+------------------------
+genie create testbed interactive --output testbed1.yml - to create a testbed 
